@@ -1,0 +1,19 @@
+############
+# Kindred Clans
+############
+kindred_clan_daeva = {
+}
+
+kindred_clan_gangrel = {
+}
+
+kindred_clan_mekhet = {
+}
+
+kindred_clan_nosferatu = {
+}
+
+kindred_clan_ventrue = {
+}
+kindred_ventrue_bloodline_malkovians = {
+}
